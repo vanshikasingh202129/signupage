@@ -1,0 +1,36 @@
+.head {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #04aaa5;
+    margin-top: 30px;
+}
+
+.body {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    background-color: #04aaa5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+
+
+
+.button1 {
+    background-color: #e5866b;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+}
